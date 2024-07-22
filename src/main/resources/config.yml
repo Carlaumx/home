@@ -1,0 +1,11 @@
+mysql:
+  hostname: 'localhost'
+  username: 'root'
+  password: 'root'
+  database: 'minecraft'
+  port: 3306
+
+home:
+  cooldown: 5 # Tempo em segundos // permission: 'home.ignorecooldown' para ignorar o tempo de espera
+  particle: 'GLOW' # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Particle.html // 'desativar' para desabilitar as particulas
+  sound: 'ENTITY_ENDERMAN_TELEPORT' # https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Sound.html // 'desativar' para desabilitar o som
