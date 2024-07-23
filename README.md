@@ -12,6 +12,9 @@ Um sistema completo de home para servidores de Minecraft, informações salvas e
 | /publica  | Tornar uma home pública.  |
 | /privada  | Tornar uma home privada.  |
 
+# Download
+Para usar o plugin você deve usar a versão 1.21 do <strong>PAPER</strong>. Clique <a target="_blank" href="https://github.com/Carlaumx/home/releases/tag/Home">AQUI</a> para baixar.
+
 # Configuração
 O plugin conta um arquivo de configuração config.yml em que você pode alterar tempo de cooldown, partículas, e som.
 
