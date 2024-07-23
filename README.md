@@ -19,3 +19,6 @@ Para usar o plugin você deve usar a versão 1.21 do <a href="https://papermc.io
 O plugin conta um arquivo de configuração config.yml em que você pode alterar tempo de cooldown, partículas, e som.
 
 [Screencast from 2024-07-22 22-42-08.webm](https://github.com/user-attachments/assets/3295ec5a-3558-4157-be34-d124e9f296df)
+# _
+Modelo banco de dados:<br>
+<img src="https://i.imgur.com/PdXoAuD.png" width="400px"/>
